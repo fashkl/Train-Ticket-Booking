@@ -1,0 +1,57 @@
+<resources>
+    <string name="app_name">train ticket</string>
+    <string name="title_activity_login_page">Sign in</string>
+    <string name="SpinnerHeader">Lines</string>
+
+    <array name="options">
+        <item>--Select--</item>
+        <item>Details</item>
+        <item>Book Ticket</item>
+        <item>View Ticket</item>
+        <item>Add Balance</item>
+        <item>Logout</item>
+    </array>
+
+    <!--/////////////////////////////////-->
+    <string name="selectLine">--Select Line--</string>
+    <string name="selectStation">--Select Station--</string>
+    <!--/////////////////////////////-->
+
+    <array name="lineType">
+        <item>--Select--</item>
+        <item>western</item>
+        <item>southern</item>
+        <item>central</item>
+    </array>
+    <array name="Stations">
+        <item>--Select--</item>
+        <item>Cairo</item>
+        <item>Benha</item>
+        <item>Tanta</item>
+        <item>Alex</item>
+        <item>Matrouh</item>
+        <item>Suez</item>
+        <item>Assuit</item>
+        <item>Sohag</item>
+        <item>Aswan</item>
+        <!--<item>Giza</item>-->
+        <!--<item>Mansoura</item>-->
+        <!--<item>Menofia</item>-->
+        <!--<item>Zagazig</item>-->
+        <!--<item>Ismailia</item>-->
+        <!--<item>PortSaid</item>-->
+    </array>
+    <!--///////////////////////////////////-->
+    <string name="hint_email">Email</string>
+    <string name="hint_password">Password</string>
+    <string name="hint_name">Fullname</string>
+    <string name="btn_login">LOGIN</string>
+    <string name="btn_register">REGISTER</string>
+    <string name="btn_link_to_register">Not a member? Sign up now.</string>
+    <string name="btn_link_to_login">Already registred! Login Me.</string>
+    <string name="welcome">Welcome</string>
+    <string name="btn_logout">LOGOUT</string>
+    <string name="name">Fullname</string>
+
+    <!--//////////////////////////////////////-->
+</resources>
